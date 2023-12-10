@@ -207,12 +207,12 @@ Here are some ressources you would read to have a good understanding of FastAPI 
     <th>Twitter</th>
     <th>LinkedIn</th>
     <th>GitHub</th>
-    <th>Hugging Face</th>
+    
   </tr>
   <tr>
-    <td>Anthony Ndung'u</td>
-    <td><a href="https://www.linkedin.com/in/anthonyndungu">@theeanalyst</a></td>
-    <td><a href="https://github.com/theeanalyst">@theeanalyst</a></td>
-    <td><a href="https://huggingface.co/Theeanalyst">@theeanalyst</a></td>
+    <td>Rose Kamau</td>
+    <td><a href="https://twitter.com/rwakamau">@rwakamau</a></td>
+    <td><a href="https://www.linkedin.com/in/rosekamau/">@rosekamau</a></td>
+    <td><a href="https://github.com/Rose-KamauTheAnalyst">@Rose-KamauTheAnalyst</a></td>
   </tr>
 </table>
